@@ -1,0 +1,13 @@
+.row .col-sm-1, .col-sm-4,.col-sm-6, .col-sm-8 {
+    background-color: #aaa;
+    border: 1px solid;
+}
+
+/* #title {
+    widows: 400px;
+} */
+
+.carousel-inner img {
+    width: auto;
+    height: 400px;
+    max-height: 400px;

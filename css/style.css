@@ -1,0 +1,15 @@
+.my-nav {
+    background-color: #ff6600;
+}
+
+.my-nav ul {
+    margin: 15px 0;
+}
+
+body {
+    padding-top: 70px;
+}
+
+#about, #my-work, #contact-me {
+    padding-top: 70px; 
+ }
